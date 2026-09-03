@@ -32,7 +32,7 @@ python-file-handling-project/
 │
 ├── app.py
 ├── main.py
-└── other supporting files
+
 ```
 
 ## 🎯 What I Learned

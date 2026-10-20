@@ -1,6 +1,6 @@
 # Python File Handling Project 
 A beginner-friendly Python project built to practice and apply **File Handling concepts** through a simple interactive user interface.
-# About the Project
+## About the Project
 This project allows users to manage files through an interactive application instead of working only through the command line.
 The project was created as part of my Python learning journey after studying File Handling and related Python concepts.
 ## Features
@@ -16,14 +16,12 @@ The project was created as part of my Python learning journey after studying Fil
 * Functions
 * Multiple Python modules/files
 * Interactive UI
-## Project Structure
-```text
+## Project Structuret
 python-file-handling-project/
 │
 ├── app.py
 ├── main.py
 
-```
 ## What I Learned
 Through this project, I practiced:
 * Opening and working with files
@@ -38,7 +36,6 @@ The core Python logic and functionality were developed by me.
 I used AI assistance to help create the interactive user interface and improve the visual presentation of the application.
 ## Future Improvements
 I plan to continue improving this project as I learn more Python and eventually apply these skills to projects related to **Data Analytics**.
----
 ### About
 This project is part of my journey of learning Python through practical projects and hands-on practice.
 

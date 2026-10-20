@@ -49,7 +49,7 @@ Follow these steps to run the project on your local machine.
 **1. Clone the repository**
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/kanikakarosiya03-cell/python-file-handling-project.git
 ```
 
 **2. Navigate to the project directory**
